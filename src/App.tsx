@@ -116,6 +116,13 @@ function App() {
       <br />
       <br />
       <br />
+      <section>
+        <h1>혹시 내가 이런 모임 소개페이지 제대로 고쳐보겠다? </h1>
+        언제든지 PR 만들어보내주세요 ㅋㅋㅋ  <a href="github.com/gachon-it/pages">gacbon-it/pages repo</a>
+      </section>
+      <br />
+      <br />
+      <br />
       <br />
       <br />
       <br />
