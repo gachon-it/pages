@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <div>
         <h1>
-          가천대학교 IT 경력개발 모임
+          가천대학교 IT 경력개발 모임 - 공지사항
         </h1>
       </div>
       <section>
