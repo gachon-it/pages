@@ -23,4 +23,4 @@ You will also see any lint errors in the console.
 
 ### `yarn deploy`
 
-- https://gachno-it.github.io/pages 에 업데이트 합니다
+- https://gachon-it.github.io/pages 에 업데이트 합니다
