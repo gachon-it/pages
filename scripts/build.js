@@ -52,6 +52,7 @@ const config = configFactory('production');
 // We require that you explicitly set browsers and do not fall back to
 // browserslist defaults.
 const { checkBrowsers } = require('react-dev-utils/browsersHelper');
+const { appHtml } = require('../config/paths');
 checkBrowsers(paths.appPath, isInteractive)
   .then(() => {
     // First, read the current file sizes in build directory.
@@ -214,4 +215,6 @@ function copyPublicFolder() {
     dereference: true,
     filter: file => file !== paths.appHtml,
   });
+  // 만약 루트 URL이 아닌 다른 URL을 접근하게 되면, 페이지가 존재하지 않기 때문에 ./build/404.html 파일이 열리게 됩니다.
+  fs.copyFileSync(paths.appHtml, `${paths.appBuild}/404.html`)
 }
