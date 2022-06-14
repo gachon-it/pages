@@ -79,7 +79,7 @@ function App() {
         <p style={{ marginLeft: '1rem'}}>주로 신변잡기적인 대화를 나누고, 기본적인 경력개발 관련된 topic으로 대화를 합니다.</p>
         <h3>
           Slack
-          <a href="https://join.slack.com/t/gachon-j0y6470/shared_invite/zt-17jgjdych-BM1ngKeKnDtpqKnXLCBvbg" style={{ marginLeft: '0.5rem'}}>[참여링크]</a>
+          <a href="https://join.slack.com/t/gachon-j0y6470/shared_invite/zt-1ar094r9f-14dO5y_o_imkAVl8PxYPbg" style={{ marginLeft: '0.5rem'}}>[참여링크]</a>
         </h3>
         <p style={{ marginLeft: '1rem'}}>카카오톡방보다는 조금 더 지식에 대해 더 깊게 논의할 수 있습니다. 본 모임의 운영관련된 이야기를 합니다.</p>
         <h3>
